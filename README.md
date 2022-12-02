@@ -41,6 +41,11 @@ answer for 4 question about course
 login
 login form
 registration form
+
+
+
+
+
 after login
 
 home *
@@ -48,4 +53,4 @@ navbar *
 logout *
 user name *
 user photo *
-Payment otion access for course
+Payment otion access for course*
