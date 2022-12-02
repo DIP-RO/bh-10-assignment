@@ -1,8 +1,11 @@
 Code World
 
-live site: click here
+live site: (https://assignment-10-6406b.web.app)
+
 server link: click here
+
 client side private repo: click here
+
 server side private repo: click here
 
 
@@ -39,4 +42,10 @@ login
 login form
 registration form
 after login
-home *navbar *logout *user name *user photo *Payment otion access for course
+
+home *
+navbar *
+logout *
+user name *
+user photo *
+Payment otion access for course
